@@ -1,0 +1,12 @@
+Lane, Cassandra: 80 100 90 87 84 92
+Melotti, Suzanne: 100 100 95 95 92 87
+Wayne, Bruce: 85 85 85 75 75 75
+Stark, Tony: 92 92 75 79 91 87
+Odinson, Thor: 23 12 10 42 50 64
+Kane, Kathy: 100 100 100 100 95 95
+Rogers, Steven: 92 91 91 90 87 84
+Murdock, Matthew: 100 100 100 99 99 98
+VonDoom, Victor: 75 75 72 73 74 80
+Queen, Olvider: 92 83 74 65 100 66
+Hall, Carter: 23 12 10 42 50 64
+Xavier, Charles: 100 100 95 95 92 87
